@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar progressBar;
     SwipeRefreshLayout swipeRefreshLayout;
 
-    String url = "http://codeflarelimited.com";
+    String url = "https://lmlevine.github.io/TASC/#/TASC/auth/login";
 
-//    final String filename= URLUtil.guessFileName(URLUtil.guessUrl(url));
+   // final String filename= URLUtil.guessFileName(URLUtil.guessUrl(url));
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
